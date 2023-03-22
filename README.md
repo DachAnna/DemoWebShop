@@ -1,4 +1,4 @@
-#### Реализован тест на сайт магазина http://demowebshop.tricentis.com/
+#### Тест на сайт магазина http://demowebshop.tricentis.com/
 ![изображение](https://user-images.githubusercontent.com/118796374/227031252-04a0e2b8-c196-48e9-9216-ee1ae1fe28e3.png)
 
 В рамках теста реализовано получение куки пользователя по API для дальнейшего использования
